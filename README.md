@@ -1,4 +1,5 @@
-# [프로젝트 이름]: 스타트업 최적화 그룹웨어 시스템
+<img width="386" height="398" alt="543208578-fd211198-6bd7-4d53-9f72-abc2aea19922" src="https://github.com/user-attachments/assets/35fcd5cd-552e-4a73-82f9-4ef56c33e74f" />
+# [StartUp]: 스타트업 최적화 그룹웨어 시스템
 
 ---
 
