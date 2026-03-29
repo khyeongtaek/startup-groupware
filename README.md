@@ -55,7 +55,7 @@
 <details>
 <summary><strong>ERD 이미지 펼쳐보기</strong></summary>
 <br>
-<img width="1921" height="1952" alt="ERD 다이어그램" src="./erd.png" />
+<img width="4944" height="12204" alt="diagram-export-2026 -3 -29 -오후-6_45_11" src="https://github.com/user-attachments/assets/9029f6bd-7a56-4a90-86ee-762aeb3380b5" />
 </details>
 
 ## 5. 프로젝트 리더십 및 협업 문화
