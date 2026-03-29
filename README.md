@@ -1,5 +1,4 @@
-<img width="386" height="398" alt="543208578-fd211198-6bd7-4d53-9f72-abc2aea19922" src="https://github.com/user-attachments/assets/35fcd5cd-552e-4a73-82f9-4ef56c33e74f" />
-# [StartUp]: 스타트업 최적화 그룹웨어 시스템
+<img width="100" height="97" alt="543208578-fd211198-6bd7-4d53-9f72-abc2aea19922" src="https://github.com/user-attachments/assets/35fcd5cd-552e-4a73-82f9-4ef56c33e74f" /><h1 style="font-size: 3em;">[StartUp]: 스타트업 최적화 그룹웨어 시스템</h1>
 
 ---
 
